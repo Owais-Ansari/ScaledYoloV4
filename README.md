@@ -36,4 +36,21 @@ magnification classifier.
 
 
 
+**Education**
+
+M.SC + M.TECH
+Physics and Material Sciences
+Indian Institute of Technology, Bombay
+
+**Software and libraries**
+
+
+AUTOCAD, OriginPro,QuPath,ASAP,
+TexStudio,Numpy, Pandas,
+keras,Tensorflow,
+Pytorch, Openslide, OpenCV, Pillow,
+sklearn
+
+
+
 
