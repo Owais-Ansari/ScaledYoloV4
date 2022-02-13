@@ -1,5 +1,5 @@
 
-Hi, I am Owaish, Imaging Scientist at Aira Matrix. I develop AI-based solution for life sciences. My key skills segmentation, object detection, classification, image processing. 
+Hi, I am Owaish, Imaging Scientist at Aira Matrix. I develop AI-based solution for life sciences. My key are skills segmentation, object detection, classification, image processing. 
 
 <!-- For the last 1 years I have been associated with Aira Matrix, and working on mainly two projects. 
 Prostate Gleason Grading: Prostate cancer is the second deadliest cancer in men, seriously affecting 
