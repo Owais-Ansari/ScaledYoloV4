@@ -1,7 +1,7 @@
 
-Hi, I am Owaish, Imaging Scientist at Aira Matrix. I develop AI-based solution for life sciences. My key responsiblities include segmentation, object detection, classification, image processing. 
+Hi, I am Owaish, Imaging Scientist at Aira Matrix. I develop AI-based solution for life sciences. My key skills segmentation, object detection, classification, image processing. 
 
-For the last 1 years I have been associated with Aira Matrix, and working on mainly two projects. 
+<!-- For the last 1 years I have been associated with Aira Matrix, and working on mainly two projects. 
 Prostate Gleason Grading: Prostate cancer is the second deadliest cancer in men, seriously affecting 
 people’s life and health. Normal Prostate tissue consists of stroma and regularly arranged glands. 
 However, cancer tissue has epithelial cells that will replicate and destroy the regular arrangement of 
@@ -32,7 +32,7 @@ predictions from two classifiers. The inference script read a WSI and generates 
 magnification, in order to separate the anatomical objects a series of image processing based 
 techniques are used to create instances for each anatomical object. Later these instances are used to 
 create sections for low magnification classifier and to generate a batch of small patches for high 
-magnification classifier.
+magnification classifier. -->
 
 
 
